@@ -53,7 +53,7 @@ The project uses **three services**:
 ## Step 1: Clone the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Parallel-Script/Quiz-App.git
 cd Quiz-App
 ```
 
