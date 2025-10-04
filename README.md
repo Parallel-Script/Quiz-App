@@ -1,6 +1,8 @@
+
 ---
 
 # Quiz App
+<a href="https://deepwiki.com/Parallel-Script/Quiz-App"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
 A full-stack Quiz application built with **Spring Boot** (backend), **React + Vite** (frontend), and **MariaDB** (database). The application is fully Dockerized using **Docker Compose**.
 
@@ -146,4 +148,3 @@ server.port=8080
 3. Database persists in Docker volume `db_data`, so data is preserved between container restarts.
 
 ---
-
